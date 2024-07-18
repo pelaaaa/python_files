@@ -1,5 +1,5 @@
 # python_files
-Basic python files I have been creating as I learn
+Basic python files I have been creating as I learn.
 
 ### Files within:
 * *unzipFiles: Unzips all ZIP files in a directory*
